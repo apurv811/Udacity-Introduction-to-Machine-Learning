@@ -1,4 +1,3 @@
-ud120-projects
-==============
+Udacity - Introduction to Machine Learning
 
-Starter project code for students taking Udacity ud120
+Solution of all mini projects and final project of this course in python 3.6.6
